@@ -10,5 +10,5 @@ console.log(names);
 const data = require('./5-alternative-flavor');
 // console.log(data)
 
-// require("./6-mind-grenade")
+require("./6-mind-grenade")
 
